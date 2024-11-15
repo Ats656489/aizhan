@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме - Төлөнгутова Айжан Сагыналыевна</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: #555;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Төлөнгутова Айжан Сагыналыевна</h1>
+        <p><strong>Дата рождения:</strong> 24.11.1989</p>
+        <p><strong>Город:</strong> Бишкек</p>
+        <p><strong>Телефон:</strong> +996550266466</p>
+        <p><strong>W/A:</strong> +996708121889</p>
+        <p><strong>Email:</strong> <a href="mailto:ats.89.24@gmail.com">ats.89.24@gmail.com</a></p>
+        <p><strong>Семейное положение:</strong> Не замужем</p>
+
+        <div class="section">
+            <h2 class="section-title">Образование</h2>
+            <ul>
+                <li>2008 - 2013: Гуманитарные науки, Кыргызско – Турецкий Университет «Манас», Бакалавр</li>
+                <li>2014 - 2017: Кыргызская государственная юридическая академия, Бакалавр</li>
+                <li>2023 - текущее время: Государственное и муниципальное управление, Академия управления при Президенте Кыргызской Республики</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Опыт работы</h2>
+            <ul>
+                <li>2016 - 2017: Делопроизводитель, ДРНАГС при ГРС при ПКР, Бишкек</li>
+                <li>2017 - 2022: Ведущий специалист, ДРНАГС при ГРС при ПКР, Бишкек</li>
+                <li>2022 - 2023: Главный специалист, ДРН при МЦР КР</li>
+                <li>2023 - текущее время: Заведующий, ДРН при МЦР КР</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Профессиональные навыки</h2>
+            <ul>
+                <li>Опытный пользователь MS Office</li>
+                <li>СЭД Infodocs</li>
+                <li>Знание языков: Кыргызский, русский, турецкий</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Личные качества</h2>
+            <ul>
+                <li>Ответственность</li>
+                <li>Внимательность</li>
+                <li>Исполнительность</li>
+                <li>Коммуникабельность</li>
+                <li>Пунктуальность</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
